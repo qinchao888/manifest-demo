@@ -1,0 +1,11 @@
+CACHE MANIFEST
+# Cache Manifest v1
+
+CACHE:
+images/logo.png
+
+NETWORK:
+#
+
+FALLBACK:
+// offline.html
